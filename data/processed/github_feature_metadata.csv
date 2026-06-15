@@ -1,0 +1,29 @@
+feature,type,reason
+account_age_days,time-based,Older accounts have had more time to create activity; age helps normalize behavior.
+days_since_last_activity,time-based,Main recency signal; users inactive for a long time are more likely to churn.
+days_since_last_repo_push,time-based,Measures how long it has been since the user's latest repository push.
+days_since_last_event,time-based,Measures how long it has been since the user's latest public GitHub event.
+repos_per_year,ratio,Normalizes repository count by account age.
+gists_per_year,ratio,Normalizes public gist count by account age.
+follower_ratio,ratio,Measures social engagement by comparing followers to following.
+inactive_repo_ratio,ratio,Measures the proportion of repositories with no recent activity.
+fork_repo_ratio,ratio,Measures how many repositories are forks instead of original projects.
+archived_repo_ratio,ratio,A high archived ratio may indicate abandoned or inactive projects.
+push_event_ratio,ratio,Measures how much of the user's recent activity is actual code pushing.
+repo_count,aggregation,Counts the number of repositories collected for the user.
+total_stars,aggregation,Total popularity signal across repositories.
+avg_stars_per_repo,aggregation,Average popularity of the user's repositories.
+total_forks,aggregation,Total reuse/collaboration signal across repositories.
+avg_forks_per_repo,aggregation,Average collaboration or reuse per repository.
+avg_repo_size,aggregation,Average size of the user's repositories.
+avg_open_issues_per_repo,aggregation,Average number of open issues per repository.
+language_count,aggregation,Counts how many different programming languages appear in the user's repositories.
+recent_event_count,aggregation,Total number of recent public events.
+recent_push_event_count,aggregation,Number of recent push events.
+recent_commit_count,aggregation,Total commits found in recent public PushEvents.
+avg_commits_per_week,aggregation,Estimated recent commit frequency per week.
+active_event_days,aggregation,Counts how many different days the user had public events.
+has_bio,binary,"1 if the user has a profile bio, otherwise 0."
+has_company,binary,"1 if the user has company information, otherwise 0."
+has_location,binary,"1 if the user has location information, otherwise 0."
+has_no_repos,binary,"1 if the user has zero public repositories, otherwise 0."

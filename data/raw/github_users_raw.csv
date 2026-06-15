@@ -1,0 +1,20 @@
+username,user_type,user_created_at,user_updated_at,public_repos,public_gists,followers,following,bio,company,location
+torvalds,User,2011-09-03T15:26:22Z,2026-06-02T05:33:59Z,12,1,307440,0,,Linux Foundation,"Portland, OR"
+mojombo,User,2007-10-20T05:24:19Z,2026-05-29T01:54:43Z,66,62,24640,11,,"@chatterbugapp, @redwoodjs, @preston-werner-ventures ",San Francisco
+pjhyett,User,2008-01-07T17:54:22Z,2026-04-07T17:46:52Z,8,21,8402,30,,,
+wycats,User,2008-01-12T05:38:33Z,2026-06-12T15:49:52Z,331,767,10307,13,,@heroku,"Portland, OR"
+defunkt,User,2007-10-20T05:24:19Z,2025-08-08T19:18:26Z,107,274,22710,215,🍔,,
+kennethreitz,User,2009-08-26T21:17:47Z,2026-05-14T18:23:32Z,81,262,29880,224,I wrote Requests: HTTP for Humans and Pipenv. The only thing I really care about is user experience.,,"Virginia, USA, Earth, Milky Way."
+octocat,User,2011-01-25T18:44:36Z,2026-05-22T11:38:32Z,8,8,22966,9,,@github,San Francisco
+gaearon,User,2011-05-25T18:18:31Z,2026-06-09T20:51:49Z,296,82,90841,174,,,
+addyosmani,User,2009-08-01T18:39:25Z,2026-04-17T06:03:52Z,356,176,49969,266,Director at Google working on Gemini and  Google Cloud,Google,"Sunnyvale, California"
+sindresorhus,User,2009-12-20T22:57:02Z,2026-06-12T08:47:25Z,1134,99,79770,31,"Full-Time Open-Sourcerer. Focused on Swift & JavaScript. Makes macOS apps, CLI tools, npm packages.",,
+tj,User,2008-09-18T22:37:28Z,2026-04-02T08:29:42Z,296,551,51772,45,,Apex,
+JakeWharton,User,2009-03-24T16:09:53Z,2026-06-09T20:38:48Z,151,54,68358,9,,@SkylightFamily,"Pittsburgh, PA, USA"
+yyx990803,User,2010-11-28T01:05:40Z,2026-04-24T09:28:14Z,198,73,108244,100,"Founder @voidzero-dev, author of @vuejs and @vitejs. Connoisseur of sushi.",VoidZero,Singapore
+antirez,User,2009-03-21T22:29:53Z,2026-04-23T14:18:39Z,108,218,28664,4,"Computer programmer based in Sicily, Italy. I mostly write OSS software. Born 1977. Not a puritan.",Redis Labs,"Catania, Sicily, Italy"
+martinfowler,User,2009-08-29T14:26:50Z,2026-06-09T10:11:33Z,0,0,1098,0,,,
+mdo,User,2009-06-25T02:06:14Z,2026-05-11T17:44:30Z,33,11,23675,1,"Designer, developer, and advisor. Building Pierre. Creator of Bootstrap (@twbs). Previously @github and @twitter. Huge nerd.",@pierredotco ,"San Francisco, CA"
+dhh,User,2008-03-10T17:53:51Z,2026-05-22T16:17:37Z,6,56,25081,0,,37signals,
+sebmarkbage,User,2009-03-15T15:25:49Z,2026-03-28T13:29:05Z,76,67,9421,37,,Vercel,New York City
+getify,User,2009-11-08T06:56:21Z,2026-04-28T20:14:44Z,74,411,45153,3,Kyle Simpson is a Human-Centric Technologist. He's fighting for the people behind the pixels.,Getify Solutions,"Austin, TX"
